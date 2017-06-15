@@ -6,5 +6,7 @@ namespace TeamPowered
 {
     class Person
     {
+        public string Name { get; }
+        public string Address { get; }
     }
 }
